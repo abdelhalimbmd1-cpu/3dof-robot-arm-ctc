@@ -1,0 +1,14 @@
+# MATLAB & Simulink
+slprj/
+*.slxc
+*.asv
+*.m~
+*.autosave
+
+# Temp & OS Files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+*.bak
